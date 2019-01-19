@@ -118,5 +118,17 @@
         "repos": [
             "https://github.com/zcash/zcash"
         ]
+    },
+    {
+        "currency": "ARDR",
+        "repos": [
+            "https://github.com/ardornxtgroup/ardor"
+        ]
+    },
+    {
+        "currency": "NXT",
+        "repos": [
+            "https://github.com/ardornxtgroup/nxt"
+        ]
     }
 ]
